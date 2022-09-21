@@ -1,4 +1,5 @@
 {
+	"quoteInfo": {
 	"toolTips": {
 		"Device": {
 			"text": "Storage capacity is not considered and will display general pricings.",
@@ -1631,5 +1632,5 @@
 		"notifyMessage": ""
 	},
 	"agentId": "00574000000cd2hAAA",
-	"lastModifiedUser": "InflightCapacity"
+	"lastModifiedUser": "InflightCapacity" }
 }
