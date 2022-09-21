@@ -20,5 +20,1616 @@
 			"text": "Select the desired payment option plan.",
 			"id": "Payment"
 		}
-	}
+	},
+	"totalLines": 20,
+	"unlimited": [
+		{
+			"unitPrice": 0,
+			"name": "0",
+			"id": 0
+		},
+		{
+			"unitPrice": 45,
+			"name": "1",
+			"id": 1
+		},
+		{
+			"unitPrice": 80,
+			"name": "2",
+			"id": 2
+		},
+		{
+			"unitPrice": 100,
+			"name": "3",
+			"id": 3
+		},
+		{
+			"unitPrice": 120,
+			"name": "4",
+			"id": 4
+		},
+		{
+			"unitPrice": 140,
+			"name": "5",
+			"id": 5
+		},
+		{
+			"unitPrice": 160,
+			"name": "6",
+			"id": 6
+		},
+		{
+			"unitPrice": 180,
+			"name": "7",
+			"id": 7
+		},
+		{
+			"unitPrice": 200,
+			"name": "8",
+			"id": 8
+		},
+		{
+			"unitPrice": 220,
+			"name": "9",
+			"id": 9
+		},
+		{
+			"unitPrice": 240,
+			"name": "10",
+			"id": 10
+		},
+		{
+			"unitPrice": 260,
+			"name": "11",
+			"id": 11
+		},
+		{
+			"unitPrice": 280,
+			"name": "12",
+			"id": 12
+		},
+		{
+			"unitPrice": 300,
+			"name": "13",
+			"id": 13
+		},
+		{
+			"unitPrice": 320,
+			"name": "14",
+			"id": 14
+		},
+		{
+			"unitPrice": 340,
+			"name": "15",
+			"id": 15
+		},
+		{
+			"unitPrice": 360,
+			"name": "16",
+			"id": 16
+		},
+		{
+			"unitPrice": 380,
+			"name": "17",
+			"id": 17
+		},
+		{
+			"unitPrice": 400,
+			"name": "18",
+			"id": 18
+		},
+		{
+			"unitPrice": 420,
+			"name": "19",
+			"id": 19
+		},
+		{
+			"unitPrice": 440,
+			"name": "20",
+			"id": 20
+		}
+	],
+	"byTheGig": [
+		{
+			"name": "By the Gig - Shared Data",
+			"id": -1,
+			"unitPrice": 0
+		},
+		{
+			"name": "1 GB",
+			"id": 1,
+			"unitPrice": 15
+		},
+		{
+			"name": "3 GB",
+			"id": 3,
+			"unitPrice": 30
+		},
+		{
+			"name": "10 GB",
+			"id": 10,
+			"unitPrice": 60
+		},
+		{
+			"name": "20 GB",
+			"id": 20,
+			"unitPrice": 120
+		},
+		{
+			"name": "50 GB",
+			"id": 50,
+			"unitPrice": 300
+		},
+		{
+			"name": "100 GB",
+			"id": 100,
+			"unitPrice": 500
+		}
+	],
+	"currentMobileProvider": [
+		{
+			"name": "Select Current Provider",
+			"id": -1
+		},
+		{
+			"name": "AT&T",
+			"id": 0
+		},
+		{
+			"name": "AT&T Business",
+			"id": 1
+		},
+		{
+			"name": "AT&T Prepaid",
+			"id": 2
+		},
+		{
+			"name": "Boost Mobile",
+			"id": 3
+		},
+		{
+			"name": "Cricket",
+			"id": 4
+		},
+		{
+			"name": "FreedomPop",
+			"id": 5
+		},
+		{
+			"name": "Google Fi",
+			"id": 6
+		},
+		{
+			"name": "Google Voice",
+			"id": 7
+		},
+		{
+			"name": "Metro PCS",
+			"id": 8
+		},
+		{
+			"name": "Net 10",
+			"id": 9
+		},
+		{
+			"name": "Sprint",
+			"id": 10
+		},
+		{
+			"name": "Straight Talk",
+			"id": 11
+		},
+		{
+			"name": "T-Mobile",
+			"id": 12
+		},
+		{
+			"name": "T-Mobile For Business",
+			"id": 13
+		},
+		{
+			"name": "T-Mobile Prepaid",
+			"id": 14
+		},
+		{
+			"name": "Telcel America",
+			"id": 15
+		},
+		{
+			"name": "TracFone",
+			"id": 16
+		},
+		{
+			"name": "U.S. Cellular",
+			"id": 17
+		},
+		{
+			"name": "Verizon Business",
+			"id": 18
+		},
+		{
+			"name": "Verizon Prepaid",
+			"id": 19
+		},
+		{
+			"name": "Verizon Wireless",
+			"id": 20
+		},
+		{
+			"name": "Virgin Mobile",
+			"id": 21
+		},
+		{
+			"name": "Comcast Business",
+			"id": 22
+		},
+		{
+			"name": "Other /  Not Sure",
+			"id": 23
+		}
+	],
+	"pcat": [
+		{
+			"productCode": "iphone-11|64GB",
+			"name": "Apple iPhone 11 | 64 GB",
+			"parentProduct": "Apple iPhone 11",
+			"capacity": "64GB",
+			"capacitySortOrder": 64,
+			"paymentOptions": [
+				{
+					"id": "ONETIME",
+					"name": "Pay in Full",
+					"price": 499.99,
+					"term": 1
+				},
+				{
+					"id": "RECURRING",
+					"name": "Pay Monthly (for 24 months)",
+					"price": 20.83,
+					"term": 24
+				}
+			]
+		},
+		{
+			"productCode": "iphone-12|64GB",
+			"name": "Apple iPhone 12 | 64 GB",
+			"parentProduct": "Apple iPhone 12",
+			"capacity": "64GB",
+			"capacitySortOrder": 64,
+			"paymentOptions": [
+				{
+					"id": "ONETIME",
+					"name": "Pay in Full",
+					"price": 629.99,
+					"term": 1
+				},
+				{
+					"id": "RECURRING",
+					"name": "Pay Monthly (for 24 months)",
+					"price": 26.24,
+					"term": 24
+				}
+			]
+		},
+		{
+			"productCode": "iphone-12-mini|64GB",
+			"name": "Apple iPhone 12 mini | 64 GB",
+			"parentProduct": "Apple iPhone 12 mini",
+			"capacity": "64GB",
+			"capacitySortOrder": 64,
+			"paymentOptions": [
+				{
+					"id": "ONETIME",
+					"name": "Pay in Full",
+					"price": 629.99,
+					"term": 1
+				},
+				{
+					"id": "RECURRING",
+					"name": "Pay Monthly (for 24 months)",
+					"price": 26.24,
+					"term": 24
+				}
+			]
+		},
+		{
+			"productCode": "a2482-iphone-13|128GB",
+			"name": "Apple iPhone 13 | 128 GB",
+			"parentProduct": "Apple iPhone 13",
+			"capacity": "128GB",
+			"capacitySortOrder": 128,
+			"paymentOptions": [
+				{
+					"id": "ONETIME",
+					"name": "Pay in Full",
+					"price": 729.99,
+					"term": 1
+				},
+				{
+					"id": "RECURRING",
+					"name": "Pay Monthly (for 24 months)",
+					"price": 30.41,
+					"term": 24
+				}
+			]
+		},
+		{
+			"productCode": "a2482-iphone-13|256GB",
+			"name": "Apple iPhone 13 | 256 GB",
+			"parentProduct": "Apple iPhone 13",
+			"capacity": "256GB",
+			"capacitySortOrder": 256,
+			"paymentOptions": [
+				{
+					"id": "ONETIME",
+					"name": "Pay in Full",
+					"price": 829.99,
+					"term": 1
+				},
+				{
+					"id": "RECURRING",
+					"name": "Pay Monthly (for 24 months)",
+					"price": 34.58,
+					"term": 24
+				}
+			]
+		},
+		{
+			"productCode": "a2482-iphone-13|512GB",
+			"name": "Apple iPhone 13 | 512 GB",
+			"parentProduct": "Apple iPhone 13",
+			"capacity": "512GB",
+			"capacitySortOrder": 512,
+			"paymentOptions": [
+				{
+					"id": "ONETIME",
+					"name": "Pay in Full",
+					"price": 1029.99,
+					"term": 1
+				},
+				{
+					"id": "RECURRING",
+					"name": "Pay Monthly (for 24 months)",
+					"price": 42.91,
+					"term": 24
+				}
+			]
+		},
+		{
+			"productCode": "a2483-iphone-13-pro|128GB",
+			"name": "Apple iPhone 13 Pro | 128 GB",
+			"parentProduct": "Apple iPhone 13 Pro",
+			"capacity": "128GB",
+			"capacitySortOrder": 128,
+			"paymentOptions": [
+				{
+					"id": "ONETIME",
+					"name": "Pay in Full",
+					"price": 899.99,
+					"term": 1
+				},
+				{
+					"id": "RECURRING",
+					"name": "Pay Monthly (for 24 months)",
+					"price": 37.49,
+					"term": 24
+				}
+			]
+		},
+		{
+			"productCode": "a2483-iphone-13-pro|256GB",
+			"name": "Apple iPhone 13 Pro | 256 GB",
+			"parentProduct": "Apple iPhone 13 Pro",
+			"capacity": "256GB",
+			"capacitySortOrder": 256,
+			"paymentOptions": [
+				{
+					"id": "ONETIME",
+					"name": "Pay in Full",
+					"price": 999.99,
+					"term": 1
+				},
+				{
+					"id": "RECURRING",
+					"name": "Pay Monthly (for 24 months)",
+					"price": 41.66,
+					"term": 24
+				}
+			]
+		},
+		{
+			"productCode": "a2483-iphone-13-pro|512GB",
+			"name": "Apple iPhone 13 Pro | 512 GB",
+			"parentProduct": "Apple iPhone 13 Pro",
+			"capacity": "512GB",
+			"capacitySortOrder": 512,
+			"paymentOptions": [
+				{
+					"id": "ONETIME",
+					"name": "Pay in Full",
+					"price": 1199.99,
+					"term": 1
+				},
+				{
+					"id": "RECURRING",
+					"name": "Pay Monthly (for 24 months)",
+					"price": 49.99,
+					"term": 24
+				}
+			]
+		},
+		{
+			"productCode": "a2483-iphone-13-pro|1TB",
+			"name": "Apple iPhone 13 Pro | 1 TB",
+			"parentProduct": "Apple iPhone 13 Pro",
+			"capacity": "1TB",
+			"capacitySortOrder": 1000,
+			"paymentOptions": [
+				{
+					"id": "ONETIME",
+					"name": "Pay in Full",
+					"price": 1399.99,
+					"term": 1
+				},
+				{
+					"id": "RECURRING",
+					"name": "Pay Monthly (for 24 months)",
+					"price": 58.33,
+					"term": 24
+				}
+			]
+		},
+		{
+			"productCode": "a2484-iphone-13-pro-max|128GB",
+			"name": "Apple iPhone 13 Pro Max | 128 GB",
+			"parentProduct": "Apple iPhone 13 Pro Max",
+			"capacity": "128GB",
+			"capacitySortOrder": 128,
+			"paymentOptions": [
+				{
+					"id": "ONETIME",
+					"name": "Pay in Full",
+					"price": 999.99,
+					"term": 1
+				},
+				{
+					"id": "RECURRING",
+					"name": "Pay Monthly (for 24 months)",
+					"price": 41.66,
+					"term": 24
+				}
+			]
+		},
+		{
+			"productCode": "a2484-iphone-13-pro-max|256GB",
+			"name": "Apple iPhone 13 Pro Max | 256 GB",
+			"parentProduct": "Apple iPhone 13 Pro Max",
+			"capacity": "256GB",
+			"capacitySortOrder": 256,
+			"paymentOptions": [
+				{
+					"id": "ONETIME",
+					"name": "Pay in Full",
+					"price": 1099.99,
+					"term": 1
+				},
+				{
+					"id": "RECURRING",
+					"name": "Pay Monthly (for 24 months)",
+					"price": 45.83,
+					"term": 24
+				}
+			]
+		},
+		{
+			"productCode": "a2484-iphone-13-pro-max|1TB",
+			"name": "Apple iPhone 13 Pro Max | 1 TB",
+			"parentProduct": "Apple iPhone 13 Pro Max",
+			"capacity": "1TB",
+			"capacitySortOrder": 1000,
+			"paymentOptions": [
+				{
+					"id": "ONETIME",
+					"name": "Pay in Full",
+					"price": 1499.99,
+					"term": 1
+				},
+				{
+					"id": "RECURRING",
+					"name": "Pay Monthly (for 24 months)",
+					"price": 62.49,
+					"term": 24
+				}
+			]
+		},
+		{
+			"productCode": "a2649-iphone-14|128GB",
+			"name": "Apple iPhone 14 | 128 GB",
+			"parentProduct": "Apple iPhone 14",
+			"capacity": "128GB",
+			"capacitySortOrder": 128,
+			"paymentOptions": [
+				{
+					"id": "ONETIME",
+					"name": "Pay in Full",
+					"price": 829.99,
+					"term": 1
+				},
+				{
+					"id": "RECURRING",
+					"name": "Pay Monthly (for 24 months)",
+					"price": 34.58,
+					"term": 24
+				}
+			]
+		},
+		{
+			"productCode": "a2649-iphone-14|256GB",
+			"name": "Apple iPhone 14 | 256 GB",
+			"parentProduct": "Apple iPhone 14",
+			"capacity": "256GB",
+			"capacitySortOrder": 256,
+			"paymentOptions": [
+				{
+					"id": "ONETIME",
+					"name": "Pay in Full",
+					"price": 929.99,
+					"term": 1
+				},
+				{
+					"id": "RECURRING",
+					"name": "Pay Monthly (for 24 months)",
+					"price": 38.74,
+					"term": 24
+				}
+			]
+		},
+		{
+			"productCode": "a2649-iphone-14|512GB",
+			"name": "Apple iPhone 14 | 512 GB",
+			"parentProduct": "Apple iPhone 14",
+			"capacity": "512GB",
+			"capacitySortOrder": 512,
+			"paymentOptions": [
+				{
+					"id": "ONETIME",
+					"name": "Pay in Full",
+					"price": 1129.99,
+					"term": 1
+				},
+				{
+					"id": "RECURRING",
+					"name": "Pay Monthly (for 24 months)",
+					"price": 47.08,
+					"term": 24
+				}
+			]
+		},
+		{
+			"productCode": "a2632-iphone-14-plus|128GB",
+			"name": "Apple iPhone 14 Plus | 128 GB",
+			"parentProduct": "Apple iPhone 14 Plus",
+			"capacity": "128GB",
+			"capacitySortOrder": 128,
+			"paymentOptions": [
+				{
+					"id": "ONETIME",
+					"name": "Pay in Full",
+					"price": 929.99,
+					"term": 1
+				},
+				{
+					"id": "RECURRING",
+					"name": "Pay Monthly (for 24 months)",
+					"price": 38.74,
+					"term": 24
+				}
+			]
+		},
+		{
+			"productCode": "a2632-iphone-14-plus|256GB",
+			"name": "Apple iPhone 14 Plus | 256 GB",
+			"parentProduct": "Apple iPhone 14 Plus",
+			"capacity": "256GB",
+			"capacitySortOrder": 256,
+			"paymentOptions": [
+				{
+					"id": "ONETIME",
+					"name": "Pay in Full",
+					"price": 1029.99,
+					"term": 1
+				},
+				{
+					"id": "RECURRING",
+					"name": "Pay Monthly (for 24 months)",
+					"price": 42.91,
+					"term": 24
+				}
+			]
+		},
+		{
+			"productCode": "a2632-iphone-14-plus|512GB",
+			"name": "Apple iPhone 14 Plus | 512 GB",
+			"parentProduct": "Apple iPhone 14 Plus",
+			"capacity": "512GB",
+			"capacitySortOrder": 512,
+			"paymentOptions": [
+				{
+					"id": "ONETIME",
+					"name": "Pay in Full",
+					"price": 1229.99,
+					"term": 1
+				},
+				{
+					"id": "RECURRING",
+					"name": "Pay Monthly (for 24 months)",
+					"price": 51.24,
+					"term": 24
+				}
+			]
+		},
+		{
+			"productCode": "a2650-iphone-14-pro|128GB",
+			"name": "Apple iPhone 14 Pro | 128 GB",
+			"parentProduct": "Apple iPhone 14 Pro",
+			"capacity": "128GB",
+			"capacitySortOrder": 128,
+			"paymentOptions": [
+				{
+					"id": "ONETIME",
+					"name": "Pay in Full",
+					"price": 999.99,
+					"term": 1
+				},
+				{
+					"id": "RECURRING",
+					"name": "Pay Monthly (for 24 months)",
+					"price": 41.66,
+					"term": 24
+				}
+			]
+		},
+		{
+			"productCode": "a2650-iphone-14-pro|256GB",
+			"name": "Apple iPhone 14 Pro | 256 GB",
+			"parentProduct": "Apple iPhone 14 Pro",
+			"capacity": "256GB",
+			"capacitySortOrder": 256,
+			"paymentOptions": [
+				{
+					"id": "ONETIME",
+					"name": "Pay in Full",
+					"price": 1099.99,
+					"term": 1
+				},
+				{
+					"id": "RECURRING",
+					"name": "Pay Monthly (for 24 months)",
+					"price": 45.83,
+					"term": 24
+				}
+			]
+		},
+		{
+			"productCode": "a2650-iphone-14-pro|512GB",
+			"name": "Apple iPhone 14 Pro | 512 GB",
+			"parentProduct": "Apple iPhone 14 Pro",
+			"capacity": "512GB",
+			"capacitySortOrder": 512,
+			"paymentOptions": [
+				{
+					"id": "ONETIME",
+					"name": "Pay in Full",
+					"price": 1299.99,
+					"term": 1
+				},
+				{
+					"id": "RECURRING",
+					"name": "Pay Monthly (for 24 months)",
+					"price": 54.16,
+					"term": 24
+				}
+			]
+		},
+		{
+			"productCode": "a2650-iphone-14-pro|1TB",
+			"name": "Apple iPhone 14 Pro | 1 TB",
+			"parentProduct": "Apple iPhone 14 Pro",
+			"capacity": "1TB",
+			"capacitySortOrder": 1000,
+			"paymentOptions": [
+				{
+					"id": "ONETIME",
+					"name": "Pay in Full",
+					"price": 1499.99,
+					"term": 1
+				},
+				{
+					"id": "RECURRING",
+					"name": "Pay Monthly (for 24 months)",
+					"price": 62.49,
+					"term": 24
+				}
+			]
+		},
+		{
+			"productCode": "a2651-iphone-14-pro-max|128GB",
+			"name": "Apple iPhone 14 Pro Max | 128 GB",
+			"parentProduct": "Apple iPhone 14 Pro Max",
+			"capacity": "128GB",
+			"capacitySortOrder": 128,
+			"paymentOptions": [
+				{
+					"id": "ONETIME",
+					"name": "Pay in Full",
+					"price": 1099.99,
+					"term": 1
+				},
+				{
+					"id": "RECURRING",
+					"name": "Pay Monthly (for 24 months)",
+					"price": 45.83,
+					"term": 24
+				}
+			]
+		},
+		{
+			"productCode": "a2651-iphone-14-pro-max|256GB",
+			"name": "Apple iPhone 14 Pro Max | 256 GB",
+			"parentProduct": "Apple iPhone 14 Pro Max",
+			"capacity": "256GB",
+			"capacitySortOrder": 256,
+			"paymentOptions": [
+				{
+					"id": "ONETIME",
+					"name": "Pay in Full",
+					"price": 1199.99,
+					"term": 1
+				},
+				{
+					"id": "RECURRING",
+					"name": "Pay Monthly (for 24 months)",
+					"price": 49.99,
+					"term": 24
+				}
+			]
+		},
+		{
+			"productCode": "a2651-iphone-14-pro-max|512GB",
+			"name": "Apple iPhone 14 Pro Max | 512 GB",
+			"parentProduct": "Apple iPhone 14 Pro Max",
+			"capacity": "512GB",
+			"capacitySortOrder": 512,
+			"paymentOptions": [
+				{
+					"id": "ONETIME",
+					"name": "Pay in Full",
+					"price": 1399.99,
+					"term": 1
+				},
+				{
+					"id": "RECURRING",
+					"name": "Pay Monthly (for 24 months)",
+					"price": 58.33,
+					"term": 24
+				}
+			]
+		},
+		{
+			"productCode": "a2651-iphone-14-pro-max|1TB",
+			"name": "Apple iPhone 14 Pro Max | 1 TB",
+			"parentProduct": "Apple iPhone 14 Pro Max",
+			"capacity": "1TB",
+			"capacitySortOrder": 1000,
+			"paymentOptions": [
+				{
+					"id": "ONETIME",
+					"name": "Pay in Full",
+					"price": 1599.99,
+					"term": 1
+				},
+				{
+					"id": "RECURRING",
+					"name": "Pay Monthly (for 24 months)",
+					"price": 66.66,
+					"term": 24
+				}
+			]
+		},
+		{
+			"productCode": "iphone-se|64GB",
+			"name": "Apple iPhone SE (2nd Generation) | 64 GB",
+			"parentProduct": "Apple iPhone SE (2nd Generation)",
+			"capacity": "64GB",
+			"capacitySortOrder": 64,
+			"paymentOptions": [
+				{
+					"id": "ONETIME",
+					"name": "Pay in Full",
+					"price": 349.99,
+					"term": 1
+				},
+				{
+					"id": "RECURRING",
+					"name": "Pay Monthly (for 24 months)",
+					"price": 14.58,
+					"term": 24
+				}
+			]
+		},
+		{
+			"productCode": "a2595-iphone-se|64GB",
+			"name": "Apple iPhone SE (3rd Gen) | 64 GB",
+			"parentProduct": "Apple iPhone SE (3rd Gen)",
+			"capacity": "64GB",
+			"capacitySortOrder": 64,
+			"paymentOptions": [
+				{
+					"id": "ONETIME",
+					"name": "Pay in Full",
+					"price": 429.99,
+					"term": 1
+				},
+				{
+					"id": "RECURRING",
+					"name": "Pay Monthly (for 24 months)",
+					"price": 17.91,
+					"term": 24
+				}
+			]
+		},
+		{
+			"productCode": "a2595-iphone-se|128GB",
+			"name": "Apple iPhone SE (3rd Gen) | 128 GB",
+			"parentProduct": "Apple iPhone SE (3rd Gen)",
+			"capacity": "128GB",
+			"capacitySortOrder": 128,
+			"paymentOptions": [
+				{
+					"id": "ONETIME",
+					"name": "Pay in Full",
+					"price": 479.99,
+					"term": 1
+				},
+				{
+					"id": "RECURRING",
+					"name": "Pay Monthly (for 24 months)",
+					"price": 19.99,
+					"term": 24
+				}
+			]
+		},
+		{
+			"productCode": "a2595-iphone-se|256GB",
+			"name": "Apple iPhone SE (3rd Gen) | 256 GB",
+			"parentProduct": "Apple iPhone SE (3rd Gen)",
+			"capacity": "256GB",
+			"capacitySortOrder": 256,
+			"paymentOptions": [
+				{
+					"id": "ONETIME",
+					"name": "Pay in Full",
+					"price": 579.99,
+					"term": 1
+				},
+				{
+					"id": "RECURRING",
+					"name": "Pay Monthly (for 24 months)",
+					"price": 24.16,
+					"term": 24
+				}
+			]
+		},
+		{
+			"productCode": "gb7n6-pixel-6|128GB",
+			"name": "Google Pixel 6 | 128 GB",
+			"parentProduct": "Google Pixel 6",
+			"capacity": "128GB",
+			"capacitySortOrder": 128,
+			"paymentOptions": [
+				{
+					"id": "ONETIME",
+					"name": "Pay in Full",
+					"price": 599.99,
+					"term": 1
+				},
+				{
+					"id": "RECURRING",
+					"name": "Pay Monthly (for 24 months)",
+					"price": 24.99,
+					"term": 24
+				}
+			]
+		},
+		{
+			"productCode": "g8v0u-pixel-6-pro|128GB",
+			"name": "Google Pixel 6 Pro | 128 GB",
+			"parentProduct": "Google Pixel 6 Pro",
+			"capacity": "128GB",
+			"capacitySortOrder": 128,
+			"paymentOptions": [
+				{
+					"id": "ONETIME",
+					"name": "Pay in Full",
+					"price": 699.99,
+					"term": 1
+				},
+				{
+					"id": "RECURRING",
+					"name": "Pay Monthly (for 24 months)",
+					"price": 29.16,
+					"term": 24
+				}
+			]
+		},
+		{
+			"productCode": "gx7as-pixel-6a|128GB",
+			"name": "Google Pixel 6a | 128 GB",
+			"parentProduct": "Google Pixel 6a",
+			"capacity": "128GB",
+			"capacitySortOrder": 128,
+			"paymentOptions": [
+				{
+					"id": "ONETIME",
+					"name": "Pay in Full",
+					"price": 449.99,
+					"term": 1
+				},
+				{
+					"id": "RECURRING",
+					"name": "Pay Monthly (for 24 months)",
+					"price": 18.74,
+					"term": 24
+				}
+			]
+		},
+		{
+			"productCode": "xt2213-3-moto-g-5g|64GB",
+			"name": "Motorola moto g 5G | 64 GB",
+			"parentProduct": "Motorola moto g 5G",
+			"capacity": "64GB",
+			"capacitySortOrder": 64,
+			"paymentOptions": [
+				{
+					"id": "ONETIME",
+					"name": "Pay in Full",
+					"price": 319.99,
+					"term": 1
+				},
+				{
+					"id": "RECURRING",
+					"name": "Pay Monthly (for 24 months)",
+					"price": 13.33,
+					"term": 24
+				}
+			]
+		},
+		{
+			"productCode": "xt2165-5-moto-g-power-2022|64GB",
+			"name": "Motorola moto g power (2022) | 64 GB",
+			"parentProduct": "Motorola moto g power (2022)",
+			"capacity": "64GB",
+			"capacitySortOrder": 64,
+			"paymentOptions": [
+				{
+					"id": "ONETIME",
+					"name": "Pay in Full",
+					"price": 199.99,
+					"term": 1
+				},
+				{
+					"id": "RECURRING",
+					"name": "Pay Monthly (for 24 months)",
+					"price": 8.33,
+					"term": 24
+				}
+			]
+		},
+		{
+			"productCode": "xt2163-4-moto-g-pure|32GB",
+			"name": "Motorola moto g pure | 32 GB",
+			"parentProduct": "Motorola moto g pure",
+			"capacity": "32GB",
+			"capacitySortOrder": 32,
+			"paymentOptions": [
+				{
+					"id": "ONETIME",
+					"name": "Pay in Full",
+					"price": 149.99,
+					"term": 1
+				},
+				{
+					"id": "RECURRING",
+					"name": "Pay Monthly (for 24 months)",
+					"price": 6.24,
+					"term": 24
+				}
+			]
+		},
+		{
+			"productCode": "xt2131-1-moto-g-stylus-5g|128GB",
+			"name": "Motorola moto g stylus 5G | 128 GB",
+			"parentProduct": "Motorola moto g stylus 5G",
+			"capacity": "128GB",
+			"capacitySortOrder": 128,
+			"paymentOptions": [
+				{
+					"id": "ONETIME",
+					"name": "Pay in Full",
+					"price": 369.99,
+					"term": 1
+				},
+				{
+					"id": "RECURRING",
+					"name": "Pay Monthly (for 24 months)",
+					"price": 15.41,
+					"term": 24
+				}
+			]
+		},
+		{
+			"productCode": "xt2215-4-moto-g-stylus-5g-2022|128GB",
+			"name": "Motorola moto g stylus 5G (2022) | 128 GB",
+			"parentProduct": "Motorola moto g stylus 5G (2022)",
+			"capacity": "128GB",
+			"capacitySortOrder": 128,
+			"paymentOptions": [
+				{
+					"id": "ONETIME",
+					"name": "Pay in Full",
+					"price": 369.99,
+					"term": 1
+				},
+				{
+					"id": "RECURRING",
+					"name": "Pay Monthly (for 24 months)",
+					"price": 15.41,
+					"term": 24
+				}
+			]
+		},
+		{
+			"productCode": "one-5g-ace|64GB",
+			"name": "Motorola one 5G ace | 64 GB",
+			"parentProduct": "Motorola one 5G ace",
+			"capacity": "64GB",
+			"capacitySortOrder": 64,
+			"paymentOptions": [
+				{
+					"id": "ONETIME",
+					"name": "Pay in Full",
+					"price": 299.99,
+					"term": 1
+				},
+				{
+					"id": "RECURRING",
+					"name": "Pay Monthly (for 24 months)",
+					"price": 12.49,
+					"term": 24
+				}
+			]
+		},
+		{
+			"productCode": "sm-a037u-galaxy-a03s|32GB",
+			"name": "Samsung Galaxy A03s | 32 GB",
+			"parentProduct": "Samsung Galaxy A03s",
+			"capacity": "32GB",
+			"capacitySortOrder": 32,
+			"paymentOptions": [
+				{
+					"id": "ONETIME",
+					"name": "Pay in Full",
+					"price": 159.99,
+					"term": 1
+				},
+				{
+					"id": "RECURRING",
+					"name": "Pay Monthly (for 24 months)",
+					"price": 6.66,
+					"term": 24
+				}
+			]
+		},
+		{
+			"productCode": "sm-a136u-galaxy-a13-5g|64GB",
+			"name": "Samsung Galaxy A13 5G | 64 GB",
+			"parentProduct": "Samsung Galaxy A13 5G",
+			"capacity": "64GB",
+			"capacitySortOrder": 64,
+			"paymentOptions": [
+				{
+					"id": "ONETIME",
+					"name": "Pay in Full",
+					"price": 249.99,
+					"term": 1
+				},
+				{
+					"id": "RECURRING",
+					"name": "Pay Monthly (for 24 months)",
+					"price": 10.41,
+					"term": 24
+				}
+			]
+		},
+		{
+			"productCode": "galaxy-a42-5g|128GB",
+			"name": "Samsung Galaxy A42 5G | 128 GB",
+			"parentProduct": "Samsung Galaxy A42 5G",
+			"capacity": "128GB",
+			"capacitySortOrder": 128,
+			"paymentOptions": [
+				{
+					"id": "ONETIME",
+					"name": "Pay in Full",
+					"price": 359.99,
+					"term": 1
+				},
+				{
+					"id": "RECURRING",
+					"name": "Pay Monthly (for 24 months)",
+					"price": 14.99,
+					"term": 24
+				}
+			]
+		},
+		{
+			"productCode": "sm-a536u-galaxy-a53-5g|128GB",
+			"name": "Samsung Galaxy A53 5G | 128 GB",
+			"parentProduct": "Samsung Galaxy A53 5G",
+			"capacity": "128GB",
+			"capacitySortOrder": 128,
+			"paymentOptions": [
+				{
+					"id": "ONETIME",
+					"name": "Pay in Full",
+					"price": 449.99,
+					"term": 1
+				},
+				{
+					"id": "RECURRING",
+					"name": "Pay Monthly (for 24 months)",
+					"price": 18.74,
+					"term": 24
+				}
+			]
+		},
+		{
+			"productCode": "sm-g990u-galaxy-s21-fe-5g|128GB",
+			"name": "Samsung Galaxy S21 FE 5G | 128 GB",
+			"parentProduct": "Samsung Galaxy S21 FE 5G",
+			"capacity": "128GB",
+			"capacitySortOrder": 128,
+			"paymentOptions": [
+				{
+					"id": "ONETIME",
+					"name": "Pay in Full",
+					"price": 699.99,
+					"term": 1
+				},
+				{
+					"id": "RECURRING",
+					"name": "Pay Monthly (for 24 months)",
+					"price": 29.16,
+					"term": 24
+				}
+			]
+		},
+		{
+			"productCode": "sm-s901u-galaxy-s22|128GB",
+			"name": "Samsung Galaxy S22 | 128 GB",
+			"parentProduct": "Samsung Galaxy S22",
+			"capacity": "128GB",
+			"capacitySortOrder": 128,
+			"paymentOptions": [
+				{
+					"id": "ONETIME",
+					"name": "Pay in Full",
+					"price": 799.99,
+					"term": 1
+				},
+				{
+					"id": "RECURRING",
+					"name": "Pay Monthly (for 24 months)",
+					"price": 33.33,
+					"term": 24
+				}
+			]
+		},
+		{
+			"productCode": "sm-s901u-galaxy-s22|256GB",
+			"name": "Samsung Galaxy S22 | 256 GB",
+			"parentProduct": "Samsung Galaxy S22",
+			"capacity": "256GB",
+			"capacitySortOrder": 256,
+			"paymentOptions": [
+				{
+					"id": "ONETIME",
+					"name": "Pay in Full",
+					"price": 849.99,
+					"term": 1
+				},
+				{
+					"id": "RECURRING",
+					"name": "Pay Monthly (for 24 months)",
+					"price": 35.41,
+					"term": 24
+				}
+			]
+		},
+		{
+			"productCode": "sm-s908u-galaxy-s22-ultra|128GB",
+			"name": "Samsung Galaxy S22 Ultra | 128 GB",
+			"parentProduct": "Samsung Galaxy S22 Ultra",
+			"capacity": "128GB",
+			"capacitySortOrder": 128,
+			"paymentOptions": [
+				{
+					"id": "ONETIME",
+					"name": "Pay in Full",
+					"price": 1199.99,
+					"term": 1
+				},
+				{
+					"id": "RECURRING",
+					"name": "Pay Monthly (for 24 months)",
+					"price": 49.99,
+					"term": 24
+				}
+			]
+		},
+		{
+			"productCode": "sm-s908u-galaxy-s22-ultra|256GB",
+			"name": "Samsung Galaxy S22 Ultra | 256 GB",
+			"parentProduct": "Samsung Galaxy S22 Ultra",
+			"capacity": "256GB",
+			"capacitySortOrder": 256,
+			"paymentOptions": [
+				{
+					"id": "ONETIME",
+					"name": "Pay in Full",
+					"price": 1299.99,
+					"term": 1
+				},
+				{
+					"id": "RECURRING",
+					"name": "Pay Monthly (for 24 months)",
+					"price": 54.16,
+					"term": 24
+				}
+			]
+		},
+		{
+			"productCode": "sm-s908u-galaxy-s22-ultra|512GB",
+			"name": "Samsung Galaxy S22 Ultra | 512 GB",
+			"parentProduct": "Samsung Galaxy S22 Ultra",
+			"capacity": "512GB",
+			"capacitySortOrder": 512,
+			"paymentOptions": [
+				{
+					"id": "ONETIME",
+					"name": "Pay in Full",
+					"price": 1399.99,
+					"term": 1
+				},
+				{
+					"id": "RECURRING",
+					"name": "Pay Monthly (for 24 months)",
+					"price": 58.33,
+					"term": 24
+				}
+			]
+		},
+		{
+			"productCode": "sm-s906u-galaxy-s22plus|128GB",
+			"name": "Samsung Galaxy S22+ | 128 GB",
+			"parentProduct": "Samsung Galaxy S22+",
+			"capacity": "128GB",
+			"capacitySortOrder": 128,
+			"paymentOptions": [
+				{
+					"id": "ONETIME",
+					"name": "Pay in Full",
+					"price": 999.99,
+					"term": 1
+				},
+				{
+					"id": "RECURRING",
+					"name": "Pay Monthly (for 24 months)",
+					"price": 41.66,
+					"term": 24
+				}
+			]
+		},
+		{
+			"productCode": "sm-s906u-galaxy-s22plus|256GB",
+			"name": "Samsung Galaxy S22+ | 256 GB",
+			"parentProduct": "Samsung Galaxy S22+",
+			"capacity": "256GB",
+			"capacitySortOrder": 256,
+			"paymentOptions": [
+				{
+					"id": "ONETIME",
+					"name": "Pay in Full",
+					"price": 1049.99,
+					"term": 1
+				},
+				{
+					"id": "RECURRING",
+					"name": "Pay Monthly (for 24 months)",
+					"price": 43.74,
+					"term": 24
+				}
+			]
+		},
+		{
+			"productCode": "sm-f711u-2-galaxy-z-flip3-5g|128GB",
+			"name": "Samsung Galaxy Z Flip3  5G | 128 GB",
+			"parentProduct": "Samsung Galaxy Z Flip3  5G",
+			"capacity": "128GB",
+			"capacitySortOrder": 128,
+			"paymentOptions": [
+				{
+					"id": "ONETIME",
+					"name": "Pay in Full",
+					"price": 799.99,
+					"term": 1
+				},
+				{
+					"id": "RECURRING",
+					"name": "Pay Monthly (for 24 months)",
+					"price": 33.33,
+					"term": 24
+				}
+			]
+		},
+		{
+			"productCode": "sm-f721u-galaxy-z-flip4|128GB",
+			"name": "Samsung Galaxy Z Flip4 | 128 GB",
+			"parentProduct": "Samsung Galaxy Z Flip4",
+			"capacity": "128GB",
+			"capacitySortOrder": 128,
+			"paymentOptions": [
+				{
+					"id": "ONETIME",
+					"name": "Pay in Full",
+					"price": 999.99,
+					"term": 1
+				},
+				{
+					"id": "RECURRING",
+					"name": "Pay Monthly (for 24 months)",
+					"price": 41.66,
+					"term": 24
+				}
+			]
+		},
+		{
+			"productCode": "sm-f721u-galaxy-z-flip4|256GB",
+			"name": "Samsung Galaxy Z Flip4 | 256 GB",
+			"parentProduct": "Samsung Galaxy Z Flip4",
+			"capacity": "256GB",
+			"capacitySortOrder": 256,
+			"paymentOptions": [
+				{
+					"id": "ONETIME",
+					"name": "Pay in Full",
+					"price": 1059.99,
+					"term": 1
+				},
+				{
+					"id": "RECURRING",
+					"name": "Pay Monthly (for 24 months)",
+					"price": 44.16,
+					"term": 24
+				}
+			]
+		},
+		{
+			"productCode": "sm-f926u-galaxy-z-fold3-5g|256GB",
+			"name": "Samsung Galaxy Z Fold3 5G | 256 GB",
+			"parentProduct": "Samsung Galaxy Z Fold3 5G",
+			"capacity": "256GB",
+			"capacitySortOrder": 256,
+			"paymentOptions": [
+				{
+					"id": "ONETIME",
+					"name": "Pay in Full",
+					"price": 1599.99,
+					"term": 1
+				},
+				{
+					"id": "RECURRING",
+					"name": "Pay Monthly (for 24 months)",
+					"price": 66.66,
+					"term": 24
+				}
+			]
+		},
+		{
+			"productCode": "sm-f936u-galaxy-z-fold4|256GB",
+			"name": "Samsung Galaxy Z Fold4 | 256 GB",
+			"parentProduct": "Samsung Galaxy Z Fold4",
+			"capacity": "256GB",
+			"capacitySortOrder": 256,
+			"paymentOptions": [
+				{
+					"id": "ONETIME",
+					"name": "Pay in Full",
+					"price": 1799.99,
+					"term": 1
+				},
+				{
+					"id": "RECURRING",
+					"name": "Pay Monthly (for 24 months)",
+					"price": 74.99,
+					"term": 24
+				}
+			]
+		},
+		{
+			"productCode": "sm-f936u-galaxy-z-fold4|512GB",
+			"name": "Samsung Galaxy Z Fold4 | 512 GB",
+			"parentProduct": "Samsung Galaxy Z Fold4",
+			"capacity": "512GB",
+			"capacitySortOrder": 512,
+			"paymentOptions": [
+				{
+					"id": "ONETIME",
+					"name": "Pay in Full",
+					"price": 1919.99,
+					"term": 1
+				},
+				{
+					"id": "RECURRING",
+					"name": "Pay Monthly (for 24 months)",
+					"price": 79.99,
+					"term": 24
+				}
+			]
+		}
+	],
+	"isValid": true,
+	"previousQuote": {
+		"opportunityId": "006740000040awq",
+		"lastQuoteSaved": "09/19/2022",
+		"unlimited": {
+			"unitPrice": 45,
+			"quantity": 1
+		},
+		"byTheGig": {
+			"quantity": 2,
+			"dataUsage": 3,
+			"unitPrice": 30
+		},
+		"tns": {
+			"portTn": 0,
+			"tns": []
+		},
+		"byod": {
+			"quantity": 1
+		},
+		"imei": {
+			"imeiNums": [
+				{
+					"id": 0,
+					"imei": "356595080076291",
+					"isValid": true
+				}
+			]
+		},
+		"devices": [
+			{
+				"deviceDetail": {
+					"id": "iphone-11|64GB",
+					"name": "Apple iPhone 11 | 64 GB",
+					"capacity": "64GB"
+				},
+				"units": 1,
+				"payment": "ONETIME",
+				"unitPrice": 499.99,
+				"term": 1
+			},
+			{
+				"deviceDetail": {
+					"id": "a2483-iphone-13-pro|128GB",
+					"name": "Apple iPhone 13 Pro | 128 GB",
+					"capacity": "128GB"
+				},
+				"units": 1,
+				"payment": "RECURRING",
+				"unitPrice": 37.49,
+				"term": 24
+			}
+		],
+		"savings": {
+			"currentMonthlyBill": 100,
+			"currentMobileProvider": 6
+		},
+		"cart": {
+			"cartItems": [
+				{
+					"id": 0,
+					"category": "lines",
+					"units": 1,
+					"name": "Unlimited",
+					"mrc": 45,
+					"nrc": 0,
+					"unitPrice": 45,
+					"productCode": null,
+					"paymentType": null
+				},
+				{
+					"id": 1,
+					"category": "lines",
+					"units": 2,
+					"name": "3 GB Shared",
+					"mrc": 30,
+					"nrc": 0,
+					"unitPrice": 30,
+					"productCode": null,
+					"paymentType": null
+				},
+				{
+					"id": 2,
+					"category": "devices",
+					"units": 1,
+					"name": "Bring Your Own",
+					"mrc": 0,
+					"nrc": 0,
+					"unitPrice": 0,
+					"productCode": null,
+					"paymentType": null
+				},
+				{
+					"id": 3,
+					"category": "devices",
+					"units": 1,
+					"name": "Apple iPhone 11 | 64 GB",
+					"mrc": 0,
+					"nrc": 499.99,
+					"unitPrice": 499.99,
+					"productCode": "iphone-11|64GB",
+					"paymentType": "ONETIME"
+				},
+				{
+					"id": 4,
+					"category": "devices",
+					"units": 1,
+					"name": "Apple iPhone 13 Pro | 128 GB",
+					"mrc": 37.49,
+					"nrc": 0,
+					"unitPrice": 899.99,
+					"productCode": "a2483-iphone-13-pro|128GB",
+					"paymentType": "RECURRING"
+				}
+			],
+			"totalMrc": 112.49000000000001,
+			"totalNrc": 499.99,
+			"monthlySavings": 25,
+			"yearlySavings": 300
+		}
+	},
+	"customerContactInfo": {
+		"opportunityId": "006740000040awq",
+		"lastContactInfoSaved": "08/05/2022",
+		"name": "CONQUER TESTING",
+		"businessName": "FL",
+		"address1": "1601 ALBANY AVE",
+		"address2": "APT 116",
+		"city": "RICHMOND",
+		"state": "VA",
+		"zip": "23224",
+		"email": "jayakumar_ganesan@comcast.com",
+		"phoneNumber": {
+			"value": "4532456789",
+			"displayValue": "(453) 245-6789"
+		},
+		"phoneExt": null
+	},
+	"notifyInfo": {
+		"notifyFlag": "N",
+		"notifyMessage": ""
+	},
+	"agentId": "00574000000cd2hAAA",
+	"lastModifiedUser": "InflightCapacity"
 }
